@@ -4,20 +4,10 @@ import plotly.graph_objects as go
 
 MIN_FINISHES = 7
 PATH_FOLDER = Path("top10scores")
-
 YEAR_START = 1970
 YEAR_END = 2026
 
-placement2medal = {
-    1: "🥇",
-    2: "🥈",
-    3: "🎖",
-    4: "🎖",
-    5: "🎖",
-}
-
 records = []
-
 for file in sorted(PATH_FOLDER.glob("*.txt")):
     year = int(file.stem)
 
@@ -64,7 +54,7 @@ for quartet in final_counts.loc[keep_quartets].index:
         y=g["top10s"],
         mode="lines",
         name=f"{quartet} ({final_counts[quartet]})",
-        line_shape="hv",
+        line={'shape': 'hv'},
         customdata=g["hover_text"],
         hovertemplate=(
             "<b>%{fullData.name}</b><br>"
