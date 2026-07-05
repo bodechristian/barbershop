@@ -8,7 +8,7 @@ YEAR_START = 1970
 YEAR_END = 2026
 
 records = []
-for file in sorted(PATH_FOLDER.glob("*.txt")):
+for file in sorted(PATH_FOLDER.glob("*.tsv")):
     year = int(file.stem)
 
     if not (YEAR_START <= year <= YEAR_END):
@@ -120,3 +120,10 @@ fig.update_xaxes(
 fig.update_traces(line=dict(width=2))
 
 fig.show()
+
+# fig.write_image(
+#     "min7since1970.png",
+#     width=1600,
+#     height=900,
+#     scale=2
+# )
