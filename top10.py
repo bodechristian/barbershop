@@ -32,7 +32,7 @@ results = pd.DataFrame(records)
 ## Get Quartets to display
 results = results.sort_values("year")
 results["top10s"] = results.groupby("quartet").cumcount() + 1
-results["hover_text"] = (results["year"].astype(str) + " — " + results["place"].astype(str) + ". place")
+results["hover_text"] = (results["place"].astype(str) + ". place")
 final_counts = (
     results.groupby("quartet")["top10s"]
     .max()
@@ -121,6 +121,7 @@ fig.update_traces(line=dict(width=2))
 
 fig.show()
 
+## Use this to save the image
 # fig.write_image(
 #     "min7since1970.png",
 #     width=1600,

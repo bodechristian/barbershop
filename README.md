@@ -24,5 +24,8 @@ Number of total top10 placements are shown in the legend and are sorted.
 ### Example 
 
 All quartets with at least 7 top10 finishes since the 1970s is displayed here. 
-Only gold medals are toggled on.
+Only gold medals are toggled on. \
 ![Top 10 visualization](imgs/min7since1970.png)
+
+Hoverbox showing all relevant quartets that year \
+![Hoverbox example](imgs/hoverbox-example.png)
