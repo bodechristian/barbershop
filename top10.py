@@ -121,6 +121,7 @@ fig.update_layout(
     xaxis_title="Year",
     yaxis_title="Career Top 10 finishes",
     legend_title="Quartet (Top 10s)",
+    hovermode="x unified"
 )
 
 fig.update_xaxes(
