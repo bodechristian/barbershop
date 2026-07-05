@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Vocal Spectrum 	CSD 	8239 = 91.5
+2 	Max Q 	SWD 	8233 = 91.5
+3 	OC Times 	FWD 	7965 = 88.5
+4 	Metropolis 	FWD 	7925 = 88.1
+5 	Flipside 	EVG 	7718 = 85.8
+6 	Wheelhouse 	MAD 	7638 = 84.9
+7 	Saturday Evening Post 	SWD 	7613 = 84.6
+8 	State Line Grocery 	DIX 	7552 = 83.9
+9 	MatriX 	JAD 	7525 = 83.6
+10 	Storm Front 	RMD 	7512 = 83.5 

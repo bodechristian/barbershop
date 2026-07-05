@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	The Rapscallions 	JAD 	4696 = 97.8
+2 	Center Stage 	PIO 	4543 = 94.6
+3 	Vaudeville 	MAD 	4529 = 94.4
+4 	Harrington Brothers 	CAR 	4516 = 94.1
+5 	Cincinnati Kids 	JAD 	4512 = 94.0
+6 	Interstate Rivals 	CAR 	4505 = 93.9
+7 	The New Tradition 	FWD 	4484 = 93.4
+8 	Knudsen Brothers 	FWD 	4476 = 93.3
+9 	Gatsby 	SWD 	4432 = 92.3
+10 	139th Street Quartet 	FWD 	4391 = 91.5 

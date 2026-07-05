@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Chicago News 	ILL 	4513 = 94.0
+2 	Classic Collection 	RMD 	4422 = 92.1
+3 	Side Street Ramblers 	SWD 	4338 = 90.4
+4 	Center Stage 	PIO 	4318 = 90.0
+5 	Roaring '20s 	JAD 	4298 = 89.5
+6 	Sound Association 	SWD 	4216 = 87.8
+7 	139th Street Quartet 	FWD 	4163 = 86.7
+8 	Remember When 	FWD 	4160 = 86.7
+9 	Vaudeville 	MAD 	4159 = 86.6
+10 	Harrington Brothers 	CAR 	4122 = 85.9 

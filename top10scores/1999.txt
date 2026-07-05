@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	FRED 	DIX 	8061 = 89.6
+2 	PLATINUM 	SUN 	7994 = 88.8
+3 	Michigan Jake 	CAR 	7857 = 87.3
+4 	BSQ 	MAD 	7816 = 86.8
+5 	Bank Street 	RMD 	7741 = 86.0
+6 	Excalibur 	LOL 	7701 = 85.6
+7 	Power Play 	PIO 	7694 = 85.5
+8 	Standing Room Only 	FWD 	7645 = 84.9
+9 	Uptown Sound 	JAD 	7637 = 84.9
+10 	Jukebox 	SUN 	7593 = 84.4 

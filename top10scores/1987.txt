@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Interstate Rivals 	CAR 	4667 = 97.2
+2 	Second Edition 	CAR 	4553 = 94.9
+3 	Chiefs of Staff 	ILL 	4531 = 94.4
+4 	139th Street Quartet 	FWD 	4429 = 92.3
+5 	Chicago Chord of Trade 	ILL 	4412 = 91.9
+6 	The Ritz 	JAD 	4368 = 91.0
+7 	Sidekicks 	SUN 	4342 = 90.5
+8 	Remember When 	FWD 	4316 = 89.9
+9 	Chordiac Arrest 	ILL 	4276 = 89.1
+10 	Basin Street Quartet 	SWD 	4226 = 88.0 

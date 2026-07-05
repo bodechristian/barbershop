@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Crossroads 	CSD 	8433 = 93.7
+2 	Old School 	MAD 	8220 = 91.3
+3 	Storm Front 	RMD 	8059 = 89.5
+4 	Ringmasters 	SNOBS 	8019 = 89.1
+4 	State Line Grocery 	DIX 	8019 = 89.1
+6 	Masterpiece 	FWD 	8000 = 88.9
+7 	Glory Days 	SWD 	7847 = 87.2
+8 	The Allies 	JAD 	7720 = 85.8
+9 	Men In Black 	NED 	7605 = 84.5
+10 	Musical Island Boys 	NZABS 	7567 = 84.1 

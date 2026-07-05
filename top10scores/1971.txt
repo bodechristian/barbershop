@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Gentlemen's Agreement 	PIO 	7478 = 97.8
+2 	Sundowners 	ILL 	7444 = 97.3
+3 	Golden Staters 	FWD 	7325 = 95.8
+4 	Pacificaires 	FWD 	7008 = 91.6
+5 	Far Westerners 	FWD 	6807 = 89.0
+6 	Easternaires 	MAD 	6748 = 88.2
+7 	Avant Garde 	ILL 	6630 = 86.7
+8 	Roaring '20s 	JAD 	6560 = 85.8
+9 	Fanfares 	LOL 	6513 = 85.1
+10 	Grandma's Boys 	NED 	6452 = 84.3 

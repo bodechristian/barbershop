@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Instant Classic 	CAR 	8343 = 92.7 
+2 	Forefront 	CAR 	8332 = 92.6 
+3 	Main Street 	SUN 	8313 = 92.4 
+4 	Lemon Squeezy 	SNOBS 	8219 = 91.3 
+5 	Throwback 	SUN 	8074 = 89.7 
+6 	A Mighty Wind 	DIX 	7959 = 88.4
+7 	The Crush 	FWD 	7923 = 88.0
+8 	After Hours 	ILL 	7922 = 88.0
+9 	Quorum 	JAD 	7772 = 86.4
+10 	Artistic License 	FWD 	7771 = 86.3 

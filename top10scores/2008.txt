@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	OC Times 	FWD 	8074 = 89.7
+2 	Crossroads 	CSD 	8023 = 89.1
+3 	State Line Grocery 	DIX 	7973 = 88.6
+4 	Redline 	DIX 	7941 = 88.2
+5 	Old School 	MAD 	7893 = 87.7
+6 	Storm Front 	RMD 	7876 = 87.5
+7 	Glory Days 	SWD 	7862 = 87.4
+8 	Metropolis 	FWD 	7786 = 86.5
+9 	Rounders 	SUN 	7732 = 85.9
+10 	The Allies 	JAD 	7582 = 84.2 

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Sidewinders 	FWD 	7317 = 97.6 
+2 	Four Renegades 	ILL 	7063 = 94.2
+3 	Nighthawks 	ONT 	6934 = 92.5
+4 	Four Rascals 	NED 	6765 = 90.2
+5 	Impostors 	ILL 	6665 = 88.9
+6 	Auto Towners 	MICH 	6649 = 88.7
+7 	Golden Staters 	FWD 	6510 = 86.8
+8 	Journeymen 	EVG 	6278 = 83.7
+9 	Four Do Matics 	EVG 	6272 = 83.6
+10 	Bay Town Four 	FWD 	6179 = 82.4 

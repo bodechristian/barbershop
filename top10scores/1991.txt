@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	The Ritz 	JAD 	5502 = 91.7
+2 	Keepsake 	SUN 	5442 = 90.7
+3 	Gas House Gang 	CSD 	5419 = 90.3
+4 	The Naturals 	JAD 	5388 = 89.8
+5 	139th Street Quartet 	FWD 	5293 = 88.2
+6 	Bank Street 	RMD 	5199 = 86.7
+7 	Special Feature 	FWD 	5103 = 85.1
+8 	The Tulsa Tradition 	SWD 	5089 = 84.8
+9 	Bustin' Loose 	JAD 	4987 = 83.1
+10 	Joker's Wild 	JAD 	4977 = 83.0 

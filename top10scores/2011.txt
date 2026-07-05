@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Old School 	MAD 	8090 = 89.9
+2 	Musical Island Boys 	NZABS 	7969 = 88.5
+3 	Masterpiece 	FWD 	7855 = 87.3
+4 	A Mighty Wind 	DIX 	7831 = 87.0
+5 	Main Street 	SUN 	7726 = 85.8
+6 	Forefront 	CAR 	7669 = 85.2
+7 	Men In Black 	NED 	7645 = 84.9
+8 	TNS 	DIX 	7630 = 84.8
+9 	The Allies 	JAD 	7620 = 84.7
+10 	Voce 	LOL 	7586 = 84.3 

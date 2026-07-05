@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Michigan Jake 	CAR 	8144 = 90.5
+2 	Uptown Sound 	JAD 	7888 = 87.6
+3 	Four Voices 	DIX 	7855 = 87.3
+4 	Riptide 	DIX 	7831 = 87.0
+5 	Power Play 	PIO 	7818 = 86.9
+6 	Metropolis 	FWD 	7763 = 86.3
+7 	BSQ 	MAD 	7696 = 85.5
+8 	Gotcha! 	FWD 	7694 = 85.5
+9 	Excalibur 	LOL 	7532 = 83.7
+10 	Saturday Evening Post 	SWD 	7522 = 83.6 

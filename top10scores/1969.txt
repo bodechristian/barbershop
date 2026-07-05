@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Mark IV 	SWD 	7423 = 82.5
+2 	Golden Staters 	FWD 	7260 = 80.7
+3 	Sundowners 	ILL 	7026 = 78.1
+4 	Oriole Four 	MAD 	7001 = 77.8
+5 	Avant Garde 	ILL 	6671 = 74.1
+6 	Far Westerners 	FWD 	6522 = 87.0
+7 	Hallmarks 	MAD 	6423 = 85.6
+8 	Pacificaires 	FWD 	6378 = 85.0
+9 	Easternaires 	MAD 	6321 = 84.3
+10 	Fanfares 	LOL 	6255 = 83.4 

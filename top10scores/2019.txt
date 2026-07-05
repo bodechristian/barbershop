@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Signature 	SUN 	8439 = 93.8 
+2 	Throwback 	SUN 	8369 = 93.0 
+3 	Quorum 	JAD 	8310 = 92.3 
+4 	Rooftop Records 	SUN 	8165 = 90.7 
+5 	Midtown 	MAD 	8112 = 90.1 
+6 	The Newfangled Four 	FWD 	8073 = 89.7
+7 	Category 4 	DIX 	8070 = 89.7
+8 	Pratt Street Power 	MAD 	7853 = 87.3
+9 	'Round Midnight 	MAD 	7776 = 86.4
+10 	The Core 	JAD 	7764 = 86.3 

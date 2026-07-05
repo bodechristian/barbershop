@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Regents 	MAD 	6203 = 98.4
+2 	Pacificaires 	FWD 	5764 = 91.5
+3 	Boston Common 	NED 	5658 = 89.8
+4 	Innsiders 	SWD 	5591 = 88.7
+5 	Soundtracks 	ILL 	5568 = 88.4
+6 	Vagabonds 	PIO 	5529 = 87.8
+7 	OK 4 	SWD 	5507 = 87.4
+8 	Command Performance 	FWD 	5402 = 85.7
+8 	Happiness Emporium 	LOL 	5402 = 85.7
+10 	Grandma's Boys 	ILL 	5334 = 84.7 

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Evans Quartet 	FWD 	7565 = 97.0
+2 	Town and Country Four 	JAD 	7179 = 92.0
+3 	Colonials 	JAD 	7152 = 91.7
+4 	Baytown Four 	FWD 	7152 = 91.7
+5 	Saints 	FWD 	7105 = 91.1
+6 	Nighthawks 	ONT 	7073 = 90.7
+7 	Easternaires 	MAD 	6985 = 89.6
+8 	The Suntones 	SUN 	6951 = 89.1
+9 	Four Renegades 	ILL 	6919 = 88.7
+10 	Playtonics 	MAD 	6859 = 87.9 

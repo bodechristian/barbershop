@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Four Renegades 	ILL 	7440 = 99.2
+2 	Four Rascals 	NED 	7011 = 93.5
+3 	Impostors 	ILL 	6836 = 91.1
+4 	Auto Towners 	MICH 	6808 = 90.8
+5 	Four Statesmen 	NED 	6601 = 88.0
+6 	Golden Staters 	FWD 	6478 = 86.4
+7 	Oriole Four 	MAD 	6474 = 86.3
+8 	Western Continentals 	FWD 	6333 = 84.4
+9 	Check Marks 	SWD 	6157 = 82.1
+10 	Rhythm Counts 	ONT 	6145 = 81.9 

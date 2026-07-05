@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Marquis 	JAD 	8021 = 89.1
+2 	Yesteryear 	JAD 	7954 = 88.4
+3 	Nightlife 	FWD 	7937 = 88.2
+4 	Standing Room Only 	FWD 	7639 = 84.9
+5 	Backbeat 	SUN 	7444 = 82.7
+6 	BSQ 	MAD 	7415 = 82.4
+7 	The Great Stage Robbery 	SWD 	7395 = 82.2
+8 	FRED 	DIX 	7311 = 81.2
+9 	Bank Street 	RMD 	7290 = 81.0
+10 	Excalibur 	LOL 	7244 = 80.5 

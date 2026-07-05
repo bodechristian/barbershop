@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Boston Common 	NED 	4716 = 98.2
+2 	Chicago News 	ILL 	4490 = 93.5
+3 	Roaring '20s 	JAD 	4340 = 90.4
+4 	Grand Tradition 	FWD 	4219 = 87.9
+5 	Classic Collection 	RMD 	4212 = 87.8
+6 	139th Street Quartet 	FWD 	4184 = 87.2
+7 	Side Street Ramblers 	SWD 	4131 = 86.1
+8 	Occidentals 	FWD 	4077 = 84.9
+9 	Friends of Yesterday 	MAD 	4061 = 84.6
+10 	4 Under Par 	MAD 	3971 = 82.7 

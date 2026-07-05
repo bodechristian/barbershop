@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Keepsake 	SUN 	5722 = 95.4
+2 	Gas House Gang 	CSD 	5683 = 94.7
+3 	The Naturals 	JAD 	5507 = 91.8
+4 	139th Street Quartet 	FWD 	5287 = 88.1
+5 	Joker's Wild 	JAD 	5258 = 87.6
+6 	Bank Street 	RMD 	5250 = 87.5
+7 	Special Feature 	FWD 	5235 = 87.3
+8 	Bingo Brothers 	MAD 	5218 = 87.0
+9 	Knudsen Brothers 	FWD 	5165 = 86.1
+10 	The Tulsa Tradition 	SWD 	5165 = 86.1

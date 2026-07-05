@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	The Suntones 	SUN 	7687 = ??
+2 	Town and Country Four 	JAD 	7344 = 97.9
+3 	Nighthawks 	ONT 	7204 = 96.1
+4 	Baytown Four 	FWD 	7061 = 94.1
+5 	Saints 	FWD 	7059 = 94.1
+6 	Gala Lads 	FWD 	7041 = 93.9
+7 	Four Renegades 	ILL 	6972 = 93.0
+8 	Four-Do-Matics 	EVG 	6941 = 92.5
+9 	Short Cuts 	SUN 	6881 = 91.7
+10 	Play-Tonics 	MAD 	6802 = 90.7 

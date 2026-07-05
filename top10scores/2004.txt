@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Gotcha! 	FWD 	8145 = 90.5
+2 	Max Q 	SWD 	7958 = 88.4
+3 	Riptide 	DIX 	7943 = 88.3
+4 	Metropolis 	FWD 	7822 = 86.9
+5 	Saturday Evening Post 	SWD 	7576 = 84.2
+6 	Flipside 	EVG 	7532 = 83.7
+7 	Realtime 	EVG 	7510 = 83.4
+8 	Wheelhouse 	MAD 	7489 = 83.2
+9 	MatriX 	JAD 	7398 = 82.2
+10 	3 Men & A Melody 	CSD 	7305 = 81.2

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Rural Route 4 	CSD 	4760 = 99.2
+2 	Interstate Rivals 	CAR 	4685 = 97.6
+3 	Vaudeville 	CAR 	4601 = 95.9
+4 	Cincinnati Kids 	JAD 	4517 = 94.1
+5 	Chiefs of Staff 	ILL 	4442 = 92.5
+6 	139th Street Quartet 	FWD 	4428 = 92.3
+7 	Remember When 	FWD 	4305 = 89.7
+8 	Knudsen Brothers 	FWD 	4304 = 89.7
+9 	Sidekicks 	SUN 	4232 = 88.2
+10 	Pros 'n' Cons 	MAD 	4091 = 85.2 

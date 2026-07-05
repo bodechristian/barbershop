@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Yesteryear 	JAD 	8274 = 91.9
+2 	FRED 	DIX 	8003 = 88.9
+3 	Standing Room Only 	FWD 	7953 = 88.4
+4 	Bank Street 	RMD 	7919 = 88.0
+5 	BSQ 	MAD 	7882 = 85.6
+6 	Backbeat 	SUN 	7807 = 86.7
+7 	Excalibur 	LOL 	7677 = 85.3
+8 	Michigan Jake 	CAR 	7605 = 84.5
+9 	Revival 	FWD 	7583 = 84.3
+10 	Power Play 	PIO 	7547 = 83.9 

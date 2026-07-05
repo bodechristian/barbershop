@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Midtown 	MAD 	8508 = 94.5 
+2 	Lemon Squeezy 	SNOBS 	8367 = 93.0 
+3 	First Take 	MAD 	8354 = 92.8 
+4 	Three and a Half Men 	SUN 	8341 = 92.8 
+5 	Throwback 	SUN 	8325 = 92.5 
+6 	The Newfangled Four 	FWD 	8064 = 89.6
+7 	Gimme Four 	MAD 	8028 = 89.2
+8 	Artistic License 	FWD 	7727 = 85.9
+9 	Pratt Street Power 	MAD 	7719 = 85.8
+10 	The Core 	JAD 	7576 = 84.2 

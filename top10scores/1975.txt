@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Happiness Emporium 	LOL 	6139 = 97.4
+2 	Innsiders 	SWD 	5956 = 94.5
+3 	Grandma's Boys 	ILL 	5793 = 92.0
+4 	Boston Common 	NED 	5678 = 90.1
+5 	Vagabonds 	PIO 	5670 = 90.0
+6 	Soundtracks 	ILL 	5614 = 89.1
+7 	Command Performance 	FWD 	5492 = 87.2
+8 	OK 4 	SWD 	5446 = 86.4
+9 	Nova Chords 	MAD 	5354 = 85.0
+10 	Roaring '20s 	JAD 	5251 = 83.3 

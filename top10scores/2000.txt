@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	PLATINUM 	SUN 	8453 = 93.9
+2 	Michigan Jake 	CAR 	8041 = 89.3
+3 	BSQ 	MAD 	7889 = 87.7
+4 	Uptown Sound 	JAD 	7869 = 87.4
+5 	Power Play 	PIO 	7856 = 87.3
+6 	Riptide 	DIX 	7827 = 87.0
+7 	Bank Street 	RMD 	7736 = 86.0
+8 	Gotcha! 	FWD 	7732 = 85.9
+9 	Excalibur 	LOL 	7700 = 85.6
+10 	Metropolis 	FWD 	7598 = 84.4 

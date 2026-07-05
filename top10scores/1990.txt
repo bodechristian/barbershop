@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Acoustix 	SWD 	4586 = 95.5
+2 	139th Street Quartet 	FWD 	4566 = 95.1
+3 	The Naturals 	JAD 	4561 = 95.0
+4 	The Ritz 	JAD 	4544 = 94.6
+5 	Bank Street 	RMD 	4527 = 94.3
+6 	Gas House Gang 	CSD 	4506 = 93.9
+7 	Chicago Chord of Trade 	ILL 	4498 = 93.7
+8 	Sidekicks 	SUN 	4416 = 92.0
+9 	Chordiac Arrest 	ILL 	4357 = 90.8
+10 	Remember When 	FWD 	4350 = 90.6 

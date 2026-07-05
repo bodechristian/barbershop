@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Most Happy Fellows 	EVG 	4601
+2 	139th Street Quartet 	FWD 	4548
+3 	Vagabonds 	PIO 	4465
+4 	Boston Common 	NED 	4449
+5 	Roaring '20s 	JAD 	4446
+6 	Bluegrass Student Union 	CAR 	4405
+7 	Grandma's Boys 	ILL 	4368
+8 	Nova Chords 	MAD 	4363
+9 	Rural Route 4 	CSD 	4098
+10 	Friends of Yesterday 	MAD 	4000 

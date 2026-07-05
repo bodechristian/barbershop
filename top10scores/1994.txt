@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Joker's Wild 	JAD 	7963 = 88.5
+2 	Nightlife 	FWD 	7943 = 88.3
+3 	Yesteryear 	JAD 	7789 = 86.5
+4 	Marquis 	JAD 	7759 = 86.2
+5 	Standing Room Only 	FWD 	7661 = 85.1
+6 	The Tulsa Tradition 	SWD 	7579 = 84.2
+7 	The Great Stage Robbery 	SWD 	7571 = 84.1
+8 	Backbeat 	SUN 	7561 = 83.9
+9 	Special Feature 	FWD 	7484 = 83.2
+10 	Bingo Brothers 	MAD 	7446 = 82.7 

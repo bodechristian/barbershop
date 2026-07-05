@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Storm Front 	RMD 	8220 = 91.3
+2 	Old School 	MAD 	8163 = 90.7
+3 	Ringmasters 	SNOBS 	7868 = 87.4
+4 	Musical Island Boys 	NZABS 	7841 = 87.1
+5 	The Allies 	JAD 	7829 = 87.0
+6 	Masterpiece 	FWD 	7741 = 86.0
+7 	Men In Black 	NED 	7739 = 86.0
+8 	A Mighty Wind 	DIX 	7681 = 85.3
+9 	Voce 	LOL 	7636 = 84.8
+10 	TNS 	DIX 	7600 = 84.4 

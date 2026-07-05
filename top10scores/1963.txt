@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Town and Country Four 	JAD 	7426 = 99.0
+2 	Nighthawks 	ONT 	7341 = 97.9
+3 	Sidewinders 	FWD 	7254 = 96.7
+4 	Four Renegades 	ILL 	7217 = 96.2
+5 	Four Rascals 	NED 	7102 = 94.7
+6 	Impostors 	ILL 	7018 = 93.6
+7 	Auto Towners 	MICH 	6946 = 92.6
+8 	Rhythm Counts 	ONT 	6831 = 91.1
+9 	Four Do Matics 	EVG 	6710 = 89.5
+10 	Colonials 	JAD 	6687 = 89.2 

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Gas House Gang 	CSD 	5804 = 96.7
+2 	Joker's Wild 	JAD 	5501 = 91.7
+3 	The Naturals 	JAD 	5463 = 91.1
+4 	Nightlife 	FWD 	5453 = 90.9
+5 	Special Feature 	FWD 	5387 = 89.8
+6 	139th Street Quartet 	FWD 	5312 = 88.5
+7 	Standing Room Only 	FWD 	5283 = 88.1
+8 	Yesteryear 	JAD 	5275 = 87.9
+9 	The Tulsa Tradition 	SWD 	5251 = 87.5
+10 	Bank Street 	RMD 	5239 = 87.3 

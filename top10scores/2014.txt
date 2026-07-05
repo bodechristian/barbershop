@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Musical Island Boys 	NZABS 	8058 = 89.5 
+2 	Forefront 	CAR 	8021 = 89.1 
+3 	Main Street 	SUN 	8015 = 89.1 
+4 	A Mighty Wind 	DIX 	7976 = 88.6 
+5 	Lemon Squeezy 	SNOBS 	7918 = 88.0 
+6 	The Crush 	FWD 	7918 = 88.0
+7 	Throwback 	SUN 	7777 = 86.4
+8 	Instant Classic 	CAR 	7761 = 86.2
+9 	Lunch Break 	DIX 	7670 = 85.2
+10 	TNS 	DIX 	7630 = 84.8 

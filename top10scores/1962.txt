@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Gala Lads 	FWD 	7344 = 97.9
+2 	Town and Country Four 	JAD 	7300 = 97.3
+3 	Four Renegades 	ILL 	7236 = 96.5
+4 	Nighthawks 	ONT 	7197 = 96.0
+5 	Sidewinders 	FWD 	6879 = 91.7
+6 	Four-Do-Matics 	EVG 	6872 = 91.6
+7 	Four Rascals 	NED 	6856 = 91.4
+7 	Colonials 	JAD 	6856 = 91.4
+9 	Auto Towners 	MICH 	6771 = 90.3
+10 	Rhythm Counts 	ONT 	6662 = 88.8 

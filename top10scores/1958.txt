@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Gaynotes 	SWD 	7697 = 98.7
+2 	Four Pitchikers 	CSD 	7594 = 97.4
+3 	Hometown Quartet 	MAD 	7340 = 94.1
+4 	West Coasters 	FWD 	7302 = 93.6
+5 	Evans Quartet 	FWD 	7184 = 92.1
+6 	Play-Tonics 	MAD 	7148 = 91.6
+7 	Easternaires 	MAD 	6931 = 88.9
+8 	Town and Country Four 	JAD 	6741 = 86.4
+9 	Timbre Kings 	ILL 	6680 = 85.6
+10 	Toronto Rhythmaires 	ONT 	6675 = 85.6 

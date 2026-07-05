@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Main Street 	SUN 	8354 = 92.8 
+2 	Signature 	SUN 	8329 = 92.5 
+3 	After Hours 	ILL 	8199 = 91.1 
+4 	Throwback 	SUN 	8149 = 90.5 
+5 	Quorum 	JAD 	8057 = 89.5 
+6 	Stockholm Syndrome 	SNOBS 	7915 = 87.9
+7 	Category 4 	DIX 	7861 = 87.3
+8 	Artistic License 	FWD 	7844 = 87.2
+9 	The Newfangled Four 	FWD 	7828 = 87.0
+10 	'Round Midnight 	MAD 	7721 = 85.8

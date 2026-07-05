@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Golden Staters 	FWD 	6011 = 95.4
+2 	Pacificaires 	FWD 	5684 = 90.2
+3 	Regents 	MAD 	5548 = 88.1
+4 	Far Westerners 	FWD 	5532 = 87.8
+5 	Boston Common 	NED 	5497 = 87.3
+6 	Soundtracks 	ILL 	5391 = 85.6
+7 	Citations 	CAR 	5376 = 85.3
+8 	Easternaires 	MAD 	5347 = 84.9
+9 	Vagabonds 	PIO 	5293 = 84.0
+10 	OK 4 	SWD 	5203 = 82.6 

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Realtime 	EVG 	8157 = 90.6
+2 	Max Q 	SWD 	8059 = 89.5
+3 	Metropolis 	FWD 	7939 = 88.2
+4 	Riptide 	DIX 	7915 = 87.9
+5 	OC Times 	FWD 	7851 = 87.2
+6 	Vocal Spectrum 	CSD 	7808 = 86.8
+7 	Saturday Evening Post 	SWD 	7764 = 86.3
+8 	Flipside 	EVG 	7729 = 85.9
+9 	MatriX 	JAD 	7638 = 84.9
+10 	Storm Front 	RMD 	7598 = 84.4 

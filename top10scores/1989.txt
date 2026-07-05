@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Second Edition 	CAR 	4722 = 98.3
+2 	Bank Street 	RMD 	4492 = 95.3
+3 	139th Street Quartet 	FWD 	4448 = 92.6
+4 	Sidekicks 	SUN 	4438 = 92.5
+5 	Chordiac Arrest 	ILL 	4431 = 92.3
+6 	The Naturals 	JAD 	4427 = 92.2
+7 	The Ritz 	JAD 	4416 = 92.0
+8 	Chicago Chord of Trade 	ILL 	4385 = 91.4
+9 	Broadway 	MAD 	4332 = 90.3
+10 	Bustin' Loose 	JAD 	4306 = 89.7 

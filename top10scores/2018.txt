@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	After Hours 	ILL 	8523 = 94.7 
+2 	Signature 	SUN 	8442 = 93.8 
+3 	Throwback 	SUN 	8205 = 91.2 
+4 	Quorum 	JAD 	8115 = 90.2 
+5 	Stockholm Syndrome 	SNOBS 	8093 = 89.9
+6 	The Newfangled Four 	FWD 	7975 = 88.6
+7 	Category 4 	DIX 	7956 = 88.4
+8 	Studio 4 	MAD 	7796 = 86.6
+9 	Artistic License 	FWD 	7788 = 86.5
+10 	Rooftop Records 	SUN 	7764 = 86.3

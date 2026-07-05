@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Chiefs of Staff 	ILL 	4688 = 97.7
+2 	Second Edition 	CAR 	4669 = 97.3
+3 	Chicago Chord of Trade 	ILL 	4610 = 96.0
+4 	Bank Street 	RMD 	4467 = 93.1
+5 	Chordiac Arrest 	ILL 	4453 = 92.8
+6 	139th Street Quartet 	FWD 	4427 = 92.2
+7 	Vaudeville 	MAD 	4395 = 91.6
+8 	Sidekicks 	SUN 	4389 = 91.4
+9 	The Ritz 	JAD 	4342 = 90.5
+10 	Remember When 	FWD 	4328 = 90.2

@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	The New Tradition 	FWD 	4813 = 94.3
+2 	Vaudeville 	MAD 	4734 = 92.8
+3 	Interstate Rivals 	CAR 	4702 = 92.2
+4 	Harrington Brothers 	CAR 	4684 = 91.8
+5 	Rural Route 4 	CSD 	4680 = 91.8
+6 	Gatsby 	SWD 	4607 = 90.3
+7 	Center Stage 	PIO 	4569 = 89.6
+8 	Cincinnati Kids 	JAD 	4519 = 88.6
+8 	139th Streeet Quartet 	FWD 	4519 = 88.6
+10 	Special Request 	FWD 	4379 = 85.9 

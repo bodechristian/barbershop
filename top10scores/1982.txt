@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Classic Collection 	RMD 	4698 = 97.9
+2 	Center Stage 	PIO 	4409 = 91.9
+3 	Side Street Ramblers 	SWD 	4396 = 91.6
+4 	Grand Tradition 	FWD 	4368 = 91.0
+5 	Vaudeville 	MAD 	4349 = 90.6
+6 	Roaring '20s 	JAD 	4245 = 88.4
+7 	Harrington Brothers 	CAR 	4172 = 86.9
+8 	139th Street Quartet 	FWD 	4154 = 86.5
+9 	The Rapscallions 	JAD 	4107 = 85.6
+10 	Tin Pan Allies 	ILL 	4102 = 85.5 

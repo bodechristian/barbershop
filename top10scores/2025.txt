@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Lemon Squeezy 	SNOBS 	93.9 
+2 	Gimme Four 	MAD 	93.5 
+3 	First Take 	MAD 	92.5 
+4 	Full Effect 	SHD 	90.9 
+5 	GQ 	MAD 	90.0 
+6 	Sunday Night Social 	RMD 	88.6
+7 	Secret Best Friends 	MAD 	88.2
+8 	The Newfangled Four 	FWD 	87.8
+9 	Clutch 	SWD 	87.2
+10 	Smoke Ring 	MAD 	86.8 

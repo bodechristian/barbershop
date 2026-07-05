@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Auto Towners 	MICH 	6817 = 90.9
+2 	Four Rascals 	NED 	6723 = 89.6
+3 	Four Statesmen 	NED 	6595 = 87.9
+4 	Golden Staters 	FWD 	6516 = 86.9
+5 	Sundowners 	ILL 	6409 = 85.4
+6 	Doo Dads 	SWD 	6269 = 83.6
+7 	Four Do Matics 	EVG 	6243 = 83.2
+8 	Oriole Four 	MAD 	6173 = 82.3
+9 	Checkmarks 	SWD 	6112 = 81.5
+10 	Far Westerners 	FWD 	5840 = 77.9 

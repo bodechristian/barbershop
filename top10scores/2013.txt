@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Masterpiece 	FWD 	8041 = 89.3 
+2 	Musical Island Boys 	NZABS 	8002 = 88.9 
+3 	A Mighty Wind 	DIX 	7924 = 88.0 
+4 	Main Street 	SUN 	7825 = 86.9 
+5 	Forefront 	CAR 	7758 = 86.2 
+6 	The Crush 	FWD 	7708 = 85.6
+7 	Throwback 	SUN 	7693 = 85.5
+8 	After Hours 	ILL 	7659 = 85.1
+9 	Via Voice 	EVG 	7638 = 84.9
+10 	Da Capo 	MAD 	7630 = 84.8 

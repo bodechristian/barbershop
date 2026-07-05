@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Quorum 	JAD 	8462 = 94.0 
+2 	Midtown 	MAD 	8309 = 92.3 
+3 	Throwback 	SUN 	8283 = 92.0 
+4 	GQ 	MAD 	7968 = 88.5 
+5 	First Take 	MAD 	7878 = 87.5 
+6 	The Ladies 	SWD 	7865 = 87.4
+7 	Gimme Four 	MAD 	7837 = 87.1
+8 	Clutch 	SWD 	7836 = 87.1
+9 	'Round Midnight 	MAD 	7667 = 85.2
+10 	Artistic License 	FWD 	7662 = 85.1

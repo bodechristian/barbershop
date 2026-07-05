@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Grandma's Boys 	ILL 	4620 = 96.3
+2 	Boston Common 	NED 	4511 = 94.0
+3 	B & O Connection 	MAD 	4355 = 90.7
+4 	Roaring '20s 	JAD 	4335 = 90.3
+5 	139th Street Quartet 	FWD 	4327 = 90.1
+6 	Classic Collection 	RMD 	4323 = 90.1
+7 	Side Street Ramblers 	SWD 	4318 = 90.0
+8 	Chicago News 	ILL 	4265 = 88.9
+9 	Rural Route 4 	CSD 	4211 = 87.7
+10 	Grand Tradition 	FWD 	4058 = 84.5 

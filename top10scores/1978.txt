@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Bluegrass Student Union 	CAR 	4540 = 94.6
+2 	Grandma's Boys 	ILL 	4504 = 93.8
+3 	Boston Common 	NED 	4419 = 92.1
+4 	Roaring '20s 	JAD 	4377 = 91.2
+5 	Nova Chords 	MAD 	4301 = 89.6
+6 	Vagabonds 	PIO 	4227 = 88.1
+7 	B & O Connection 	MAD 	4104 = 85.5
+8 	Rural Route 4 	CSD 	4100 = 85.4
+9 	Friends of Yesterday 	MAD 	4062 = 84.6
+10 	Classic Collection 	RMD 	3972 = 82.8 

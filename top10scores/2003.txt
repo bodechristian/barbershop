@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Power Play 	PIO 	8099 = 90.0
+2 	Gotcha! 	FWD 	8072 = 89.7
+3 	Metropolis 	FWD 	8051 = 89.5
+4 	Uptown Sound 	JAD 	7988 = 88.8
+5 	Riptide 	DIX 	7967 = 88.5
+6 	Cheers! 	ILL 	7630 = 84.8
+7 	Excalibur 	LOL 	7594 = 84.4
+8 	Flipside 	EVG 	7574 = 84.2
+9 	Wheelhouse 	MAD 	7533 = 83.7
+10 	Saturday Evening Post 	SWD 	7528 = 83.6 

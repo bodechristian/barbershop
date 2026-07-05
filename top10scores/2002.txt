@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Four Voices 	DIX 	7888 = 87.6
+2 	Uptown Sound 	JAD 	7842 = 87.1
+3 	Power Play 	PIO 	7759 = 86.2
+4 	Riptide 	DIX 	7747 = 86.1
+5 	Metropolis 	FWD 	7737 = 86.0
+6 	Gotcha! 	FWD 	7641 = 84.9
+7 	Excalibur 	LOL 	7570 = 84.1
+8 	Flipside 	EVG 	7474 = 83.0
+9 	Saturday Evening Post 	SWD 	7469 = 83.0
+10 	Finale 	FWD 	7372 = 81.9 

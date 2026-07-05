@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Three and a Half Men 	SUN 	6795 = 94.4 
+2 	First Take 	MAD 	6688 = 92.9 
+3 	Gimme Four 	MAD 	6547 = 90.9 
+4 	The Ladies 	SWD 	6405 = 89.0 
+5 	The Newfangled Four 	FWD 	6378 = 88.6 
+6 	Full Effect 	SHD 	6250 = 86.8
+7 	Clutch 	SWD 	6199 = 86.1
+8 	Secret Best Friends 	MAD 	6181 = 85.8
+9 	Smoke Ring 	MAD 	6115 = 84.9
+10 	Sunday Night Social 	RMD 	6109 = 84.8 

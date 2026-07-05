@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Innsiders 	SWD 	4572 = 95.3
+2 	Vagabonds 	PIO 	4395 = 91.6
+3 	Nova Chords 	MAD 	4368 = 91.0
+4 	Bluegrass Student Union 	CAR 	4367 = 91.0
+5 	Roaring '20s 	JAD 	4238 = 88.3
+6 	Grandma's Boys 	ILL 	4207 = 87.6
+7 	Most Happy Fellows 	EVG 	4158 = 86.6
+8 	Saturday's Heroes 	ILL 	4048 = 84.3
+9 	Sound Association 	SWD 	4037 = 84.1
+10 	139th Street Quartet 	FWD 	4033 = 84.0 

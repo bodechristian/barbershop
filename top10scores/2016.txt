@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score 
+1 	Forefront 	CAR 	8394 = 93.3 
+2 	Lemon Squeezy 	SNOBS 	8356 = 92.8 
+3 	Main Street 	SUN 	8337 = 92.6
+4 	Signature 	SUN 	8183 = 90.9 
+5 	Throwback 	SUN 	8022 = 89.1 
+6 	After Hours 	ILL 	7951 = 88.3
+7 	Quorum 	JAD 	7944 = 88.3
+8 	Stockholm Syndrome 	SNOBS 	7826 = 87.0
+9 	Artistic License 	FWD 	7801 = 86.7
+10 	Da Capo 	MAD 	7776 = 86.4 

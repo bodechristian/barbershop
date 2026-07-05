@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Max Q 	SWD 	8339 = 92.7
+2 	OC Times 	FWD 	8053 = 89.5
+3 	Storm Front 	RMD 	7724 = 85.8
+4 	State Line Grocery 	DIX 	7713 = 85.7
+5 	Flipside 	EVG 	7704 = 85.6
+6 	Glory Days 	SWD 	7655 = 85.1
+7 	The Allies 	JAD 	7608 = 84.5
+8 	Rounders 	SUN 	7558 = 84.0
+9 	Wheelhouse 	MAD 	7501 = 83.3
+10 	SEP 	SWD 	7429 = 82.5 

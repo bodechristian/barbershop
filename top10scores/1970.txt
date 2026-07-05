@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Oriole Four 	MAD 	7216 = 96.2
+2 	Sundowners 	ILL 	6989 = 93.2
+3 	Pacificaires 	FWD 	6844 = 91.3
+4 	Gentlemen's Agreement 	PIO 	6747 = 90.0
+5 	Easternaires 	MAD 	6642 = 88.6
+6 	Far Westerners 	FWD 	6553 = 87.4
+7 	Hallmarks 	MAD 	6417 = 85.6
+8 	Doo-Dads 	SWD 	6400 = 85.3
+9 	Citations 	CAR 	6229 = 83.1
+10 	Fanfares 	LOL 	6202 = 82.7 

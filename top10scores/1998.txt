@@ -1,0 +1,11 @@
+Place 	Quartet 	District 	Score
+1 	Revival 	FWD 	8091 = 89.9
+2 	Michigan Jake 	CAR 	7827 = 87.0
+3 	BSQ 	MAD 	7821 = 86.9
+4 	FRED 	DIX 	7796 = 86.6
+5 	Bank Street 	RMD 	7778 = 86.4
+6 	Excalibur 	LOL 	7771 = 86.3
+7 	Standing Room Only 	FWD 	7730 = 85.9
+8 	Uptown Sound 	JAD 	7699 = 85.5
+9 	Bayside Edition 	SUN 	7645 = 84.9
+10 	Rumors 	JAD 	7555 = 83.9 
