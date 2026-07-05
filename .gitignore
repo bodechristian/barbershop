@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+.venv/
+
+# JetBrains / PyCharm / IntelliJ
+.idea/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
