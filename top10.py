@@ -2,10 +2,13 @@ from pathlib import Path
 import pandas as pd
 import plotly.graph_objects as go
 
+# configurables
 MIN_FINISHES = 7
-PATH_FOLDER = Path("top10scores")
 YEAR_START = 1970
 YEAR_END = 2026
+
+# constants
+PATH_FOLDER = Path("top10scores")
 
 records = []
 for file in sorted(PATH_FOLDER.glob("*.tsv")):
