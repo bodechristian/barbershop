@@ -1,6 +1,7 @@
 from pathlib import Path
 import pandas as pd
 import plotly.graph_objects as go
+import plotly.express as px
 
 # configurables
 MIN_FINISHES = 7
@@ -10,6 +11,8 @@ YEAR_END = 2026
 # constants
 PATH_FOLDER = Path("top10scores")
 
+# Setup
+## Read Files
 records = []
 for file in sorted(PATH_FOLDER.glob("*.tsv")):
     year = int(file.stem)
@@ -44,11 +47,19 @@ final_counts = (
 keep_quartets = final_counts[final_counts >= MIN_FINISHES].index
 results = results[results["quartet"].isin(keep_quartets)]
 
+## Set Colors - custom set to show it in custom hoverbox
+palette = px.colors.qualitative.Plotly
+quartet_colors = {
+    quartet: palette[i % len(palette)]
+    for i, quartet in enumerate(final_counts.loc[keep_quartets].index)
+}
+
+
 # ---- PLOTLY ----
 fig = go.Figure()
 
 ## Display quartets
-# iterate in sorted order (IMPORTANT for legend order)
+### iterate in sorted order (IMPORTANT for legend order)
 for quartet in final_counts.loc[keep_quartets].index:
     g = results[results["quartet"] == quartet]
 
@@ -57,16 +68,37 @@ for quartet in final_counts.loc[keep_quartets].index:
         y=g["top10s"],
         mode="lines",
         name=f"{quartet} ({final_counts[quartet]})",
-        line={'shape': 'hv'},
-        customdata=g["hover_text"],
-        hovertemplate=(
-            "<b>%{fullData.name}</b><br>"
-            "%{customdata}<br>"
-            "Top 10s: %{y}<extra></extra>"
-        ),
+        line={'shape': 'hv', 'color': quartet_colors[quartet]},
+        hoverinfo="skip"
     ))
 
-## Markers for Gold, Silver, Bronze medals
+### Custom Hoverbox for sorting
+hover_texts = []
+hover_y = []
+years_sorted = sorted(results["year"].unique())
+for yr in years_sorted:
+    active = results[results["year"] == yr].sort_values("place")
+    parts = [
+        f"<span style='color:{quartet_colors[row.quartet]}'>&#9632;</span> "
+        f"<b>{row.quartet}</b> ({final_counts[row.quartet]})<br>"
+        f"{row.place}. place<br>"
+        f"Top10 finish number {row.top10s}"
+        for row in active.itertuples()
+    ]
+    hover_texts.append("<br><br>".join(parts))
+    hover_y.append(active["top10s"].max())  # position near the top of that year's cluster
+
+fig.add_trace(go.Scatter(
+    x=years_sorted,
+    y=hover_y,
+    mode="markers",
+    marker=dict(opacity=0, size=0),
+    hovertext=hover_texts,
+    hoverinfo="x+text",
+    showlegend=False,
+))
+
+### Markers for Gold, Silver, Bronze medals
 gold = results[results["place"] == 1].copy()
 silver = results[results["place"] == 2].copy()
 bronze = results[results["place"].between(3, 5)].copy()
@@ -114,8 +146,7 @@ fig.update_layout(
     xaxis_title="Year",
     yaxis_title="Career Top 10 finishes",
     legend_title="Quartet (Top 10s)",
-    hovermode="x unified",
-    hoverdistance=5
+    hovermode="x unified"
 )
 
 fig.update_xaxes(
