@@ -34,6 +34,7 @@ results = pd.DataFrame(records)
 ## Get Quartets to display
 results = results.sort_values("year")
 results["top10s"] = results.groupby("quartet").cumcount() + 1
+results["hover_text"] = (results["year"].astype(str) + " — " + results["place"].astype(str) + ". place")
 final_counts = (
     results.groupby("quartet")["top10s"]
     .max()
@@ -59,12 +60,13 @@ for quartet in final_counts.loc[keep_quartets].index:
         y=g["top10s"],
         mode="lines",
         name=f"{quartet} ({final_counts[quartet]})",
+        line_shape="hv",
+        customdata=g["hover_text"],
         hovertemplate=(
-            f"{quartet}<br>"
-            "Year: %{x}<br>"
-            "Top 10s: %{y}<extra></extra>"
+            "<b>%{fullData.name}</b><br>"
+            "%{customdata}<br>"
+            "Career Top 10s: %{y}<extra></extra>"
         ),
-        line_shape="hv"
     ))
 
 ## Event markers for winning years
