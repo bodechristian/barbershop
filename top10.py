@@ -8,6 +8,14 @@ PATH_FOLDER = Path("top10scores")
 YEAR_START = 1970
 YEAR_END = 2026
 
+placement2medal = {
+    1: "🥇",
+    2: "🥈",
+    3: "🎖",
+    4: "🎖",
+    5: "🎖",
+}
+
 records = []
 
 for file in sorted(PATH_FOLDER.glob("*.txt")):
@@ -43,10 +51,6 @@ final_counts = (
 keep_quartets = final_counts[final_counts >= MIN_FINISHES].index
 results = results[results["quartet"].isin(keep_quartets)]
 
-## Get Winners for event markers
-last_rows = results.sort_values("year").groupby("quartet").tail(1)
-winners = last_rows[last_rows["place"] == 1]
-
 # ---- PLOTLY ----
 fig = go.Figure()
 
@@ -65,28 +69,51 @@ for quartet in final_counts.loc[keep_quartets].index:
         hovertemplate=(
             "<b>%{fullData.name}</b><br>"
             "%{customdata}<br>"
-            "Career Top 10s: %{y}<extra></extra>"
+            "Top 10s: %{y}<extra></extra>"
         ),
     ))
 
-## Event markers for winning years
+## Markers for Gold, Silver, Bronze medals
+gold = results[results["place"] == 1].copy()
+silver = results[results["place"] == 2].copy()
+bronze = results[results["place"].between(3, 5)].copy()
 fig.add_trace(go.Scatter(
-    x=winners["year"],
-    y=winners["top10s"],
-    mode="markers",
-    name="Championship finish",
-    marker=dict(
-        symbol="star",
-        size=14,
-        color="gold",
-        line=dict(width=1, color="black")
-    ),
-    hovertemplate=(
-        "🏆 %{customdata}<br>"
-        "Year: %{x}<br>"
-        "Final Top 10 #: %{y}<extra></extra>"
-    ),
-    customdata=winners["quartet"]
+    x=bronze["year"],
+    y=bronze["top10s"],
+    mode="markers+text",
+    text="🎖",
+    textfont=dict(size=16),
+    textposition="top center",
+    marker=dict(size=1, opacity=0),
+    name="Bronze (3.-5.)",
+    hoverinfo="skip",
+    showlegend=True,
+    visible="legendonly"
+))
+fig.add_trace(go.Scatter(
+    x=silver["year"],
+    y=silver["top10s"],
+    mode="markers+text",
+    text="🥈",
+    textfont=dict(size=20),
+    textposition="top center",
+    marker=dict(size=1, opacity=0),
+    name="Silver",
+    hoverinfo="skip",
+    showlegend=True,
+    visible="legendonly"
+))
+fig.add_trace(go.Scatter(
+    x=gold["year"],
+    y=gold["top10s"],
+    mode="markers+text",
+    text="🥇",
+    textfont=dict(size=24),
+    textposition="top center",
+    marker=dict(size=1, opacity=0),
+    name="Gold",
+    hoverinfo="skip",
+    showlegend=True
 ))
 
 fig.update_layout(
